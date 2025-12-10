@@ -14,9 +14,10 @@ Welcome to my digital playground! 🚀 I’m a tech enthusiast on a mission to e
 
 <img align="right" alt="GIF" width=150 src="https://github.com/ParambrataSinha/About_Me/blob/main/Assets/minecraft-minecraft-memes.gif" />
 
-- 🎓 Student | B.Tech in Computer Science & Engineering at Jadavpur University (Batch '24-'28).  
+- 🎓 Student | B.Tech. in  Chemical Engineering at IIT Roorkee (Batch '25-'29)
+- Dropped Out B.E. in Computer Science & Engineering at Jadavpur University (Batch '24-'28).  
 - 🤖 Tech Adventurer | Obsessed with Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI.  
-- 🌱 Learning in Progress | Currently mastering Scikit-learn, PyTorch, and building AI-powered solutions.  
+- 🌱 Learning in Progress | Currently mastering Advance ML algorithms, Deep Learning, Neural Network
 - 🤝 Team Player | Love collaborating on open-source projects and game-changing ideas.  
 - 🎮 Fun Side | Gaming, hacking puzzles, and bingeing sci-fi shows are my jam.  
 
@@ -24,9 +25,11 @@ Welcome to my digital playground! 🚀 I’m a tech enthusiast on a mission to e
 
 ## 🛠 My Tech Toolbox  
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,html,css,js,git,linux,vscode,github,unity&theme=light" alt="Tech Tools" />
-</div>  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,anaconda,git,docker,html,css,js,figma,c,cpp,cs&perline=7"/>
+  </a>
+</p>  
 
 ---
 

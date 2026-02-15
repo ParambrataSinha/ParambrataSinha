@@ -10,7 +10,7 @@
 
 ## 🧠 **Engineering Intelligence**
 
-<img align="right" src="https://github.com/ParambrataSinha/About_Me/blob/main/Assets/minecraft-minecraft-memes.gif" width="180">
+<img align="right" src="https://github.com/ParambrataSinha/ParambrataSinha/blob/main/Assets/Pb-Phantom.png" width="180">
 
 * :bowtie: **Chemical Engineering** undergraduate at **IIT Roorkee**.
 * :shipit: **Core Member** — **Data Science Group (DSG)**, exploring ideas where mathematics meets intelligent systems.
